@@ -1,0 +1,1 @@
+./flyctl.exe --app delta-server deploy .
