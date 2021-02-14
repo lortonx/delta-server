@@ -91,7 +91,7 @@ class FFA extends Gamemode {
 
         const pieces = player.world.splitPlayer(player);
         if (player.world.settings.playerExtraDecayEnabled && pieces > 0) {
-            player.extraDecayMult += (player.world.settings.playerExtraDecaySplitLoss+(player.extraDecayMult/100*20))
+            player.extraDecayMult += (player.world.settings.playerExtraDecaySplitLoss+(player.extraDecayMult/100*10))
             //player.extraDecayMult += player.world.settings.playerExtraDecaySplitLoss
         }
     }
