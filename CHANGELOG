@@ -181,7 +181,7 @@
 - Renamed setting finderMaxItems to worldFinderMaxItems
 - Renamed setting safeSpawnTries to worldSafeSpawnTries
 - Renamed setting safeSpawnFromEjected to worldSafeSpawnFromEjectedChance
-- Renamed setting playerDisposeDelay to worldPlayerDisposeDelay
+- Renamed setting playerDisposeDelay to worldPlayerDisposeDelay /// удаление клетки через время
 - Renamed setting ticksPerSecond to serverUpdateFrequency
 - Renamed setting playerBotsPerWorld to worldPlayerBotsPerWorld
 - Renamed setting minionsPerPlayer to worldMinionsPerPlayer

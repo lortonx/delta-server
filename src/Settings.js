@@ -29,7 +29,7 @@ const value = /*Object.seal*/({
 
     worldEatMult: 1.140175425099138,
     worldEatOverlapDiv: 3,
-
+ 
     worldPlayerBotsPerWorld: 0,
     /** @type {string[]} */
     worldPlayerBotNames: [],
@@ -61,6 +61,7 @@ const value = /*Object.seal*/({
     virusPushBoost: 120,
     virusMonotonePops: false,
 
+    ejectedNoCollideDelay: 0,
     ejectedSize: 38,
     ejectingLoss: 43,
     ejectDispersion: 0.3,

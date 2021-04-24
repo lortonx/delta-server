@@ -1,4 +1,4 @@
-app = "delta-ffa"
+app = "delta-server"
 
 
 [[services]]

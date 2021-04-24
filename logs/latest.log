@@ -1,293 +1,136 @@
-2021-02-14 15:58:30.587 [INFO] starting
-2021-02-14 15:58:30.606 [DEBUG] listener opening at 8080
-2021-02-14 15:58:30.620 [INFO] ticker begin
-2021-02-14 15:58:30.631 [INFO] OgarII 1.3.6
-2021-02-14 15:58:30.633 [INFO] gamemode: FFA
-2021-02-14 15:58:30.638 [INFO] listener open at 8080
-2021-02-14 15:58:31.207 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
-2021-02-14 15:58:31.207 [DEBUG] client verification passed
-2021-02-14 15:58:31.210 [ACCESS] CONNECTION FROM 127.0.0.1
-2021-02-14 15:58:31.216 [DEBUG] added a player with id 1
-2021-02-14 15:58:31.231 [DEBUG] added a player with id 2
-2021-02-14 15:58:31.231 [DEBUG] player 2 has been added to world 1
-2021-02-14 15:58:31.231 [DEBUG] added a player with id 3
-2021-02-14 15:58:31.231 [DEBUG] player 3 has been added to world 1
-2021-02-14 15:58:31.231 [DEBUG] added a player with id 4
-2021-02-14 15:58:31.231 [DEBUG] player 4 has been added to world 1
-2021-02-14 15:58:31.231 [DEBUG] added a player with id 5
-2021-02-14 15:58:31.231 [DEBUG] player 5 has been added to world 1
-2021-02-14 15:58:31.231 [DEBUG] added a player with id 6
-2021-02-14 15:58:31.232 [DEBUG] player 6 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 7
-2021-02-14 15:58:31.232 [DEBUG] player 7 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 8
-2021-02-14 15:58:31.232 [DEBUG] player 8 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 9
-2021-02-14 15:58:31.232 [DEBUG] player 9 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 10
-2021-02-14 15:58:31.232 [DEBUG] player 10 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 11
-2021-02-14 15:58:31.232 [DEBUG] player 11 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 12
-2021-02-14 15:58:31.232 [DEBUG] player 12 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 13
-2021-02-14 15:58:31.232 [DEBUG] player 13 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 14
-2021-02-14 15:58:31.232 [DEBUG] player 14 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 15
-2021-02-14 15:58:31.232 [DEBUG] player 15 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 16
-2021-02-14 15:58:31.232 [DEBUG] player 16 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 17
-2021-02-14 15:58:31.232 [DEBUG] player 17 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 18
-2021-02-14 15:58:31.232 [DEBUG] player 18 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 19
-2021-02-14 15:58:31.232 [DEBUG] player 19 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 20
-2021-02-14 15:58:31.232 [DEBUG] player 20 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 21
-2021-02-14 15:58:31.232 [DEBUG] player 21 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 22
-2021-02-14 15:58:31.232 [DEBUG] player 22 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 23
-2021-02-14 15:58:31.232 [DEBUG] player 23 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 24
-2021-02-14 15:58:31.232 [DEBUG] player 24 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 25
-2021-02-14 15:58:31.232 [DEBUG] player 25 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 26
-2021-02-14 15:58:31.232 [DEBUG] player 26 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 27
-2021-02-14 15:58:31.232 [DEBUG] player 27 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 28
-2021-02-14 15:58:31.232 [DEBUG] player 28 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 29
-2021-02-14 15:58:31.232 [DEBUG] player 29 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 30
-2021-02-14 15:58:31.232 [DEBUG] player 30 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 31
-2021-02-14 15:58:31.232 [DEBUG] player 31 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 32
-2021-02-14 15:58:31.232 [DEBUG] player 32 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 33
-2021-02-14 15:58:31.232 [DEBUG] player 33 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a player with id 34
-2021-02-14 15:58:31.232 [DEBUG] player 34 has been added to world 1
-2021-02-14 15:58:31.232 [DEBUG] added a world with id 1
-2021-02-14 15:58:31.234 [DEBUG] player 1 has been added to world 1
-2021-02-14 15:58:31.594 [DEBUG] command stream open
-2021-02-14 15:58:51.528 [DEBUG] connection from 127.0.0.1 has disconnected
-2021-02-14 15:58:51.542 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1001 '')
-2021-02-14 15:58:51.574 [DEBUG] player 1 has been removed from world 1
-2021-02-14 15:58:51.574 [DEBUG] removed player with id 1
-2021-02-14 15:58:51.574 [DEBUG] player 2 has been removed from world 1
-2021-02-14 15:58:51.574 [DEBUG] player 3 has been removed from world 1
-2021-02-14 15:58:51.574 [DEBUG] player 4 has been removed from world 1
-2021-02-14 15:58:51.574 [DEBUG] player 5 has been removed from world 1
-2021-02-14 15:58:51.574 [DEBUG] player 6 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 7 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 8 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 9 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 10 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 11 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 12 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 13 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 14 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 15 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 16 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 17 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 18 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 19 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 20 has been removed from world 1
-2021-02-14 15:58:51.575 [DEBUG] player 21 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 22 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 23 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 24 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 25 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 26 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 27 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 28 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 29 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 30 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 31 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 32 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 33 has been removed from world 1
-2021-02-14 15:58:51.576 [DEBUG] player 34 has been removed from world 1
-2021-02-14 15:58:51.608 [DEBUG] removed world with id 1
-2021-02-14 15:58:51.608 [DEBUG] removed player with id 2
-2021-02-14 15:58:51.608 [DEBUG] removed player with id 3
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 4
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 5
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 6
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 7
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 8
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 9
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 10
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 11
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 12
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 13
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 14
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 15
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 16
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 17
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 18
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 19
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 20
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 21
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 22
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 23
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 24
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 25
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 26
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 27
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 28
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 29
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 30
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 31
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 32
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 33
-2021-02-14 15:58:51.609 [DEBUG] removed player with id 34
-2021-02-14 15:58:53.010 [ACCESS] REQUEST FROM 127.0.0.1, not secure, Origin: https://agar.io
-2021-02-14 15:58:53.010 [DEBUG] client verification passed
-2021-02-14 15:58:53.011 [ACCESS] CONNECTION FROM 127.0.0.1
-2021-02-14 15:58:53.156 [DEBUG] added a player with id 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 2
-2021-02-14 15:58:53.183 [DEBUG] player 2 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 3
-2021-02-14 15:58:53.183 [DEBUG] player 3 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 4
-2021-02-14 15:58:53.183 [DEBUG] player 4 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 5
-2021-02-14 15:58:53.183 [DEBUG] player 5 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 6
-2021-02-14 15:58:53.183 [DEBUG] player 6 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 7
-2021-02-14 15:58:53.183 [DEBUG] player 7 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 8
-2021-02-14 15:58:53.183 [DEBUG] player 8 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 9
-2021-02-14 15:58:53.183 [DEBUG] player 9 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 10
-2021-02-14 15:58:53.183 [DEBUG] player 10 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 11
-2021-02-14 15:58:53.183 [DEBUG] player 11 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 12
-2021-02-14 15:58:53.183 [DEBUG] player 12 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 13
-2021-02-14 15:58:53.183 [DEBUG] player 13 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 14
-2021-02-14 15:58:53.183 [DEBUG] player 14 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 15
-2021-02-14 15:58:53.183 [DEBUG] player 15 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 16
-2021-02-14 15:58:53.183 [DEBUG] player 16 has been added to world 1
-2021-02-14 15:58:53.183 [DEBUG] added a player with id 17
-2021-02-14 15:58:53.183 [DEBUG] player 17 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 18
-2021-02-14 15:58:53.184 [DEBUG] player 18 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 19
-2021-02-14 15:58:53.184 [DEBUG] player 19 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 20
-2021-02-14 15:58:53.184 [DEBUG] player 20 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 21
-2021-02-14 15:58:53.184 [DEBUG] player 21 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 22
-2021-02-14 15:58:53.184 [DEBUG] player 22 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 23
-2021-02-14 15:58:53.184 [DEBUG] player 23 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 24
-2021-02-14 15:58:53.184 [DEBUG] player 24 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 25
-2021-02-14 15:58:53.184 [DEBUG] player 25 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 26
-2021-02-14 15:58:53.184 [DEBUG] player 26 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 27
-2021-02-14 15:58:53.184 [DEBUG] player 27 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 28
-2021-02-14 15:58:53.184 [DEBUG] player 28 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 29
-2021-02-14 15:58:53.184 [DEBUG] player 29 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 30
-2021-02-14 15:58:53.184 [DEBUG] player 30 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 31
-2021-02-14 15:58:53.184 [DEBUG] player 31 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 32
-2021-02-14 15:58:53.184 [DEBUG] player 32 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 33
-2021-02-14 15:58:53.184 [DEBUG] player 33 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a player with id 34
-2021-02-14 15:58:53.184 [DEBUG] player 34 has been added to world 1
-2021-02-14 15:58:53.184 [DEBUG] added a world with id 1
-2021-02-14 15:58:53.185 [DEBUG] player 1 has been added to world 1
-2021-02-14 15:59:02.244 [DEBUG] connection from 127.0.0.1 has disconnected
-2021-02-14 15:59:02.247 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '')
-2021-02-14 15:59:02.296 [DEBUG] player 1 has been removed from world 1
-2021-02-14 15:59:02.296 [DEBUG] removed player with id 1
-2021-02-14 15:59:02.296 [DEBUG] player 2 has been removed from world 1
-2021-02-14 15:59:02.296 [DEBUG] player 3 has been removed from world 1
-2021-02-14 15:59:02.296 [DEBUG] player 4 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 5 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 6 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 7 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 8 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 9 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 10 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 11 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 12 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 13 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 14 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 15 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 16 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 17 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 18 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 19 has been removed from world 1
-2021-02-14 15:59:02.297 [DEBUG] player 20 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 21 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 22 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 23 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 24 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 25 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 26 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 27 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 28 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 29 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 30 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 31 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 32 has been removed from world 1
-2021-02-14 15:59:02.298 [DEBUG] player 33 has been removed from world 1
-2021-02-14 15:59:02.299 [DEBUG] player 34 has been removed from world 1
-2021-02-14 15:59:02.344 [DEBUG] removed world with id 1
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 2
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 3
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 4
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 5
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 6
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 7
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 8
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 9
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 10
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 11
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 12
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 13
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 14
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 15
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 16
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 17
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 18
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 19
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 20
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 21
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 22
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 23
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 24
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 25
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 26
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 27
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 28
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 29
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 30
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 31
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 32
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 33
-2021-02-14 15:59:02.345 [DEBUG] removed player with id 34
+2021-04-24 10:57:20.548 [INFO] starting
+2021-04-24 10:57:20.559 [DEBUG] listener opening at 8080
+2021-04-24 10:57:20.560 [DEBUG] listener opening at 8080
+2021-04-24 10:57:20.566 [INFO] ticker begin
+2021-04-24 10:57:20.566 [INFO] OgarII 1.3.6
+2021-04-24 10:57:20.567 [INFO] gamemode: FFA
+2021-04-24 10:57:20.578 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 10:57:20.578 [DEBUG] client verification passed
+2021-04-24 10:57:20.578 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 10:57:20.585 [DEBUG] added a player with id 1
+2021-04-24 10:57:20.613 [DEBUG] added a player with id 2
+2021-04-24 10:57:20.613 [DEBUG] player 2 has been added to world 1
+2021-04-24 10:57:20.613 [DEBUG] added a player with id 3
+2021-04-24 10:57:20.613 [DEBUG] player 3 has been added to world 1
+2021-04-24 10:57:20.613 [DEBUG] added a player with id 4
+2021-04-24 10:57:20.613 [DEBUG] player 4 has been added to world 1
+2021-04-24 10:57:20.613 [DEBUG] added a player with id 5
+2021-04-24 10:57:20.613 [DEBUG] player 5 has been added to world 1
+2021-04-24 10:57:20.613 [DEBUG] added a player with id 6
+2021-04-24 10:57:20.613 [DEBUG] player 6 has been added to world 1
+2021-04-24 10:57:20.613 [DEBUG] added a world with id 1
+2021-04-24 10:57:20.614 [DEBUG] player 1 has been added to world 1
+2021-04-24 10:57:21.557 [DEBUG] command stream open
+2021-04-24 10:57:28.389 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 10:57:28.389 [DEBUG] client verification passed
+2021-04-24 10:57:28.389 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 10:57:28.396 [DEBUG] added a player with id 7
+2021-04-24 10:57:28.437 [DEBUG] player 7 has been added to world 1
+2021-04-24 10:57:57.082 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 10:57:57.088 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 10:57:57.117 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '[object ArrayBuffer]')
+2021-04-24 10:57:57.117 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '[object ArrayBuffer]')
+2021-04-24 10:57:57.124 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 10:57:57.124 [DEBUG] client verification passed
+2021-04-24 10:57:57.124 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 10:57:57.143 [DEBUG] added a player with id 8
+2021-04-24 10:57:57.143 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 10:57:57.143 [DEBUG] client verification passed
+2021-04-24 10:57:57.143 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 10:57:57.153 [DEBUG] added a player with id 9
+2021-04-24 10:57:57.195 [DEBUG] player 8 has been added to world 1
+2021-04-24 10:57:57.195 [DEBUG] player 9 has been added to world 1
+2021-04-24 10:58:01.626 [DEBUG] player 1 has been removed from world 1
+2021-04-24 10:58:01.626 [DEBUG] removed player with id 1
+2021-04-24 10:58:57.112 [DEBUG] player 7 has been removed from world 1
+2021-04-24 10:58:57.112 [DEBUG] removed player with id 7
+2021-04-24 11:01:26.198 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 11:01:26.201 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 11:01:26.220 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1006 '[object ArrayBuffer]')
+2021-04-24 11:01:26.220 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1006 '[object ArrayBuffer]')
+2021-04-24 11:01:26.268 [DEBUG] player 8 has been removed from world 1
+2021-04-24 11:01:26.268 [DEBUG] removed player with id 8
+2021-04-24 11:01:26.268 [DEBUG] player 9 has been removed from world 1
+2021-04-24 11:01:26.268 [DEBUG] removed player with id 9
+2021-04-24 11:01:26.268 [DEBUG] player 2 has been removed from world 1
+2021-04-24 11:01:26.268 [DEBUG] player 3 has been removed from world 1
+2021-04-24 11:01:26.269 [DEBUG] player 4 has been removed from world 1
+2021-04-24 11:01:26.269 [DEBUG] player 5 has been removed from world 1
+2021-04-24 11:01:26.269 [DEBUG] player 6 has been removed from world 1
+2021-04-24 11:01:26.322 [DEBUG] removed world with id 1
+2021-04-24 11:01:26.323 [DEBUG] removed player with id 2
+2021-04-24 11:01:26.323 [DEBUG] removed player with id 3
+2021-04-24 11:01:26.323 [DEBUG] removed player with id 4
+2021-04-24 11:01:26.323 [DEBUG] removed player with id 5
+2021-04-24 11:01:26.323 [DEBUG] removed player with id 6
+2021-04-24 14:48:26.650 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 14:48:26.650 [DEBUG] client verification passed
+2021-04-24 14:48:26.651 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 14:48:28.044 [DEBUG] added a player with id 1
+2021-04-24 14:48:28.053 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 14:48:28.056 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '[object ArrayBuffer]')
+2021-04-24 14:48:28.057 [DEBUG] added a player with id 2
+2021-04-24 14:48:28.057 [DEBUG] player 2 has been added to world 1
+2021-04-24 14:48:28.057 [DEBUG] added a player with id 3
+2021-04-24 14:48:28.057 [DEBUG] player 3 has been added to world 1
+2021-04-24 14:48:28.057 [DEBUG] added a player with id 4
+2021-04-24 14:48:28.057 [DEBUG] player 4 has been added to world 1
+2021-04-24 14:48:28.057 [DEBUG] added a player with id 5
+2021-04-24 14:48:28.057 [DEBUG] player 5 has been added to world 1
+2021-04-24 14:48:28.057 [DEBUG] added a player with id 6
+2021-04-24 14:48:28.057 [DEBUG] player 6 has been added to world 1
+2021-04-24 14:48:28.057 [DEBUG] added a world with id 1
+2021-04-24 14:48:28.057 [DEBUG] player 1 has been added to world 1
+2021-04-24 14:48:28.063 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 14:48:28.063 [DEBUG] client verification passed
+2021-04-24 14:48:28.063 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 14:48:28.077 [ACCESS] REQUEST FROM 127.0.0.1, Origin: https://agar.io
+2021-04-24 14:48:28.077 [DEBUG] client verification passed
+2021-04-24 14:48:28.077 [ACCESS] CONNECTION FROM 127.0.0.1
+2021-04-24 14:48:28.226 [DEBUG] player 1 has been removed from world 1
+2021-04-24 14:48:28.226 [DEBUG] removed player with id 1
+2021-04-24 14:48:28.227 [DEBUG] player 2 has been removed from world 1
+2021-04-24 14:48:28.227 [DEBUG] player 3 has been removed from world 1
+2021-04-24 14:48:28.227 [DEBUG] player 4 has been removed from world 1
+2021-04-24 14:48:28.227 [DEBUG] player 5 has been removed from world 1
+2021-04-24 14:48:28.227 [DEBUG] player 6 has been removed from world 1
+2021-04-24 14:48:28.298 [DEBUG] removed world with id 1
+2021-04-24 14:48:28.298 [DEBUG] removed player with id 2
+2021-04-24 14:48:28.298 [DEBUG] removed player with id 3
+2021-04-24 14:48:28.298 [DEBUG] removed player with id 4
+2021-04-24 14:48:28.298 [DEBUG] removed player with id 5
+2021-04-24 14:48:28.299 [DEBUG] removed player with id 6
+2021-04-24 14:48:28.299 [DEBUG] added a player with id 1
+2021-04-24 14:48:28.299 [DEBUG] added a player with id 2
+2021-04-24 14:48:28.300 [DEBUG] added a player with id 3
+2021-04-24 14:48:28.300 [DEBUG] player 3 has been added to world 1
+2021-04-24 14:48:28.300 [DEBUG] added a player with id 4
+2021-04-24 14:48:28.300 [DEBUG] player 4 has been added to world 1
+2021-04-24 14:48:28.300 [DEBUG] added a player with id 5
+2021-04-24 14:48:28.300 [DEBUG] player 5 has been added to world 1
+2021-04-24 14:48:28.300 [DEBUG] added a player with id 6
+2021-04-24 14:48:28.300 [DEBUG] player 6 has been added to world 1
+2021-04-24 14:48:28.300 [DEBUG] added a player with id 7
+2021-04-24 14:48:28.300 [DEBUG] player 7 has been added to world 1
+2021-04-24 14:48:28.300 [DEBUG] added a world with id 1
+2021-04-24 14:48:28.300 [DEBUG] player 1 has been added to world 1
+2021-04-24 14:48:28.300 [DEBUG] player 2 has been added to world 1
+2021-04-24 15:01:45.565 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 15:01:45.568 [DEBUG] connection from 127.0.0.1 has disconnected
+2021-04-24 15:01:45.605 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '[object ArrayBuffer]')
+2021-04-24 15:01:45.605 [ACCESS] DISCONNECTION FROM 127.0.0.1 (1005 '[object ArrayBuffer]')
+2021-04-24 15:01:45.637 [DEBUG] player 1 has been removed from world 1
+2021-04-24 15:01:45.638 [DEBUG] removed player with id 1
+2021-04-24 15:01:45.638 [DEBUG] player 2 has been removed from world 1
+2021-04-24 15:01:45.638 [DEBUG] removed player with id 2
+2021-04-24 15:01:45.638 [DEBUG] player 3 has been removed from world 1
+2021-04-24 15:01:45.639 [DEBUG] player 4 has been removed from world 1
+2021-04-24 15:01:45.639 [DEBUG] player 5 has been removed from world 1
+2021-04-24 15:01:45.639 [DEBUG] player 6 has been removed from world 1
+2021-04-24 15:01:45.640 [DEBUG] player 7 has been removed from world 1
+2021-04-24 15:01:45.664 [DEBUG] removed world with id 1
+2021-04-24 15:01:45.664 [DEBUG] removed player with id 3
+2021-04-24 15:01:45.665 [DEBUG] removed player with id 4
+2021-04-24 15:01:45.665 [DEBUG] removed player with id 5
+2021-04-24 15:01:45.665 [DEBUG] removed player with id 6
+2021-04-24 15:01:45.665 [DEBUG] removed player with id 7
