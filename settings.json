@@ -3,7 +3,7 @@
     "listenerAcceptedOrigins": [],
     "listenerMaxConnections": 250,
     "listenerMaxClientDormancy": 60000,
-    "listenerMaxConnectionsPerIP": -1,
+    "listenerMaxConnectionsPerIP": 4,
     "listeningPort": 8080,
     "serverFrequency": 25,
     "serverName": "Party",
