@@ -162,6 +162,7 @@ class Listener {
         context);*/
     }
     onOpen() {
+        console.log(process.env.PORT)
         this.logger.inform(`listener open at ${process.env.PORT || this.settings.listeningPort}`);
     }
 
