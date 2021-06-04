@@ -48,9 +48,9 @@ class Listener {
 
     open() {
         if (this.listenerSocket !== null) return false;
-        this.logger.debug(`listener opening at ${this.settings.listeningPort}`);
+        this.logger.debug(`listener opening at ${process.env.PORT || this.settings.listeningPort}`);
         /*this.listenerSocket = new WebSocketServer({
-            port: this.settings.listeningPort,
+            port: process.env.PORT || this.settings.listeningPort,
             verifyClient: this.verifyClient.bind(this)
         }, this.onOpen.bind(this));*/
         this.listenerSocket = uWS./*SSL*/App({
@@ -70,10 +70,10 @@ class Listener {
                 console.log(this.connectionsByIP)
             }
             
-        }).listen(this.settings.listeningPort, (listenSocket) => {
+        }).listen(process.env.PORT || this.settings.listeningPort, (listenSocket) => {
             this.sock = listenSocket
-            if (listenSocket) this.logger.debug(`listener opening at ${this.settings.listeningPort}`);
-            console.log(listenSocket,`listener opening at ${this.settings.listeningPort}`)
+            if (listenSocket) this.logger.debug(`listener opening at ${process.env.PORT || this.settings.listeningPort}`);
+            console.log(listenSocket,`listener opening at ${process.env.PORT || this.settings.listeningPort}`)
         })
 
         //this.listenerSocket.on("connection", this.onConnection.bind(this));
@@ -162,7 +162,7 @@ class Listener {
         context);*/
     }
     onOpen() {
-        this.logger.inform(`listener open at ${this.settings.listeningPort}`);
+        this.logger.inform(`listener open at ${process.env.PORT || this.settings.listeningPort}`);
     }
 
     /**
