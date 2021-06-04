@@ -17,6 +17,14 @@ app = "delta-server"
     handlers = ["tls", "http"]
     port = "443"
 
+  [[services.ports]]
+    handlers = ["http"]
+    port = "10000"
+
+  [[services.ports]]
+    handlers = ["http"]
+    port = "10001"
+
   [[services.tcp_checks]]
     interval = 10000
     timeout = 2000

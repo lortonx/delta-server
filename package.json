@@ -4,7 +4,7 @@
     "description": "FOSS implementation of a private Agar.io gameserver",
     "license": "Apache-2.0",
     "scripts": {
-        "start": "node cli/index.js",
+        "start": "node --inspect=0.0.0.0:10000 cli/index.js",
         "start2": "nodemon cli/index.js --ignore 'logs/*' --ignore settings.json --ignore log-settings.json"
     },
     "author": {
