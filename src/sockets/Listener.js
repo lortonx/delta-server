@@ -72,8 +72,11 @@ class Listener {
             
         }).listen(process.env.PORT || this.settings.listeningPort, (listenSocket) => {
             this.sock = listenSocket
-            if (listenSocket) this.logger.debug(`listener opening at ${process.env.PORT || this.settings.listeningPort}`);
+            if (listenSocket) this.logger.debug(`listener opening at ${process.env.PORT || this.settings.listeningPort}`); else {
+                console.log('Failed to listen to port ' + (process.env.PORT || this.settings.listeningPort));
+            }
             console.log(listenSocket,`listener opening at ${process.env.PORT || this.settings.listeningPort}`)
+
         })
 
         //this.listenerSocket.on("connection", this.onConnection.bind(this));
