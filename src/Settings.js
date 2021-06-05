@@ -7,7 +7,6 @@ const value = /*Object.seal*/({
     listenerMaxClientDormancy: 1000 * 60,
     listenerMaxConnectionsPerIP: -1,
     listeningPort: 8081,
-
     serverFrequency: 25,
     serverName: "An unnamed server",
     serverGamemode: "FFA",
