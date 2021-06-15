@@ -48,9 +48,9 @@ class Listener {
 
     open() {
         if (this.listenerSocket !== null) return false;
-        this.logger.debug(`listener opening at ${process.env.PORT}`);
+        this.logger.debug(`listener opening at ${this.settings.listeningPort}`);
         /*this.listenerSocket = new WebSocketServer({
-            port: process.env.PORT,
+            port: this.settings.listeningPort,
             verifyClient: this.verifyClient.bind(this)
         }, this.onOpen.bind(this));*/
         this.listenerSocket = uWS./*SSL*/App({
@@ -70,11 +70,12 @@ class Listener {
                 console.log(this.connectionsByIP)
             }
             
-        }).listen(process.env.PORT, (listenSocket) => {
+        }).get('/ping',(res, req) => {
+            res.end('pong!');
+        }).listen(this.settings.listeningPort, (listenSocket) => {
             this.sock = listenSocket
-            if (listenSocket) this.logger.debug(`listener opening at ${process.env.PORT}`);
-            console.log(listenSocket,`listener opening at ${process.env.PORT}`)
-            
+            if (listenSocket) this.logger.debug(`listener opening at ${this.settings.listeningPort}`);
+            console.log(listenSocket,`listener opening at ${this.settings.listeningPort}`)
         })
 
         //this.listenerSocket.on("connection", this.onConnection.bind(this));
@@ -99,7 +100,7 @@ class Listener {
         const connection_ip = new Uint8Array(res.getRemoteAddress().slice(-4)).join('.')
         let socketData = {
             connection: null,
-            ip: req.getHeader('fly-client-ip') || connection_ip,
+            ip: req.getHeader('fly-client-ip')|| req.getHeader('x-forwarded-for').split(",")[0] || connection_ip, //env : fly.io || glitch.com || others
             url: req.getUrl()+'?'+req.getQuery(),
             origin: req.getHeader('origin'),
             websocketKey: req.getHeader('sec-websocket-key'),
@@ -163,7 +164,7 @@ class Listener {
         context);*/
     }
     onOpen() {
-        this.logger.inform(`listener open at ${process.env.PORT}`);
+        this.logger.inform(`listener open at ${this.settings.listeningPort}`);
     }
 
     /**
